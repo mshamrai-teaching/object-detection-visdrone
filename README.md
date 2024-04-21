@@ -25,7 +25,7 @@ Welcome to the Object Detection assignment for the Computer Vision course! In th
   * The VisDrone 2019 dataset is provided for this competition.
 * Model:
   * Build or find a model for object detection.
-  * Transfer learning is highly encouraged; you can use pre-trained models or fine-tune them.
+  * Transfer learning is highly encouraged; you can use pre-trained models and fine-tune them.
 * Baseline:
   * The baseline used in this competition is a secret.
   * Your goal is to beat the baseline using your own model architecture and training strategy.
